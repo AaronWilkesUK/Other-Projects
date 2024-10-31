@@ -1,0 +1,2 @@
+<b><u>OTHER PROJECTS</u></b>
+<p>This is a repository to show my other projects past and present, some of these are commercial so i'm not able to share source code, the repo includes hardware and software, with a brief description of each one.</p>
